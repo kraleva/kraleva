@@ -5,5 +5,5 @@
 - Writing my master's thesis in the field of Map Matching
 - Finished my bachelor studies in the field of computer science in the Free University of Berlin - Thesis topic was "Algorithms for finding triangles in unit disk graphs in polynomial time" 
 
-[![Kraleva's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraleva)](https://github.com/anuraghazra/github-readme-stats)
+[![Kraleva's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraleva)](https://github.com/kraleva/github-readme-stats)
 
